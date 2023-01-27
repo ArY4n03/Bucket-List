@@ -1,0 +1,6 @@
+Shortcut keys
+
+Ctrl + A to add list item
+Ctrl + D to delete list item
+Ctrl + Q to load list items
+Ctrl + S to save list items
